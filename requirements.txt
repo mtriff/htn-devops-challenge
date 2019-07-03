@@ -1,0 +1,8 @@
+oauth2>=1.9.0
+six>=1.12.0
+requests>=2.22.0
+nose2>=0.9.1
+nose2[coverage_plugin]>=0.6.5
+detect-secrets>=0.12.4
+pylint>=2.3.1
+pyre-check>=0.0.27
